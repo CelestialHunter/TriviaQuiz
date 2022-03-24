@@ -1,0 +1,106 @@
+1
+multiple
+Care este temperatura de fierbere a apei, in conditii normale?
+4
+212 F
+90 C
+100 C
+60 K
+0
+1,3
+
+2
+single
+Ce merge in 4 picioare dimineata, in 2 picioare la amiaza si in 3 picioare seara?
+4
+un animal ciudat
+un robotel defect
+omul
+nimic
+/images/sphinx.jpg
+3
+
+3
+single
+Care este numele celei mai mari companii tehnologice din Coreea de Sud?
+4
+Samsung
+KIA
+Hyundai
+Sinhan
+0
+1
+
+4
+single
+Care este capitala Portugaliei?
+4
+Madrid
+Vila Real
+Lisabona
+Porto
+/images/portugal.jpg
+3
+
+5
+single
+Cine apare pe bancnota de 20 de lei?
+4
+Regina Elisabeta
+Ana Ipatescu
+Regina Maria
+Ecaterina Teodoroiu
+0
+4
+
+6
+single
+Adevărat sau fals? Culoarea "portocaliu" poartă numele fructului.
+2
+Adevărat
+Fals
+/images/orange.jpg
+1
+
+7
+single
+Ce înseamnă Cynophobia?
+4
+Teama de câini
+Teama de filme
+Teama de cianură
+Teama de oameni
+0
+1
+
+8
+single
+Câte stele are steagul Uniunii Europene?
+4
+20
+52
+16
+12
+0
+4
+
+9
+multiple
+În sensul conducerii ecologice a unui autovehicul, se recomandă:
+3
+să nu aveți montat în permanență pe autovehicul portbagajul suplimentar
+să utilizați spoilere și faruri suplimentare
+să evitați transportul obiectelor inutile în portbagaj sau în habitaclu
+0
+1,3
+
+10
+single
+Cine a realizat prima călătorie în jurul lumii?
+4
+Vasco da Gama
+Amerigo Vespucci
+Cristofor Columb
+Fernando Magellan
+/images/sailing.jpg
+4
